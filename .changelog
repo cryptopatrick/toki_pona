@@ -1,0 +1,6 @@
+# 2023.01.19
++   Started working on one of the most fundamental parts of any langauge - its _parser_.
+Our parser will take a string of Toki Pona and _convert_ it into a _syntax tree_.
+
++ Started reading "A Formal Grammar for Toki Pona"
+http://www2.hawaii.edu/~chin/661F12/Projects/ztomaszewski.pdf

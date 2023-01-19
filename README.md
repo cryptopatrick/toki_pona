@@ -1,2 +1,10 @@
 # toki_pona
-Utilities for the world's smallest language.
+toki_pona is a simple parser for the parsing strings of Toki Pona, the world's
+smallest language.
+
+
+## Changelog:
+
+### v 0.0.1 :
+
+* Added ```list_vocabulary()``` for getting a list of the Toki Pona vocabulary
