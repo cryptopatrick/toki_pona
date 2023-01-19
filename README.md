@@ -1,2 +1,2 @@
 # toki_pona
-Utilities for the worlds smallest language.
+Utilities for the world's smallest language.
