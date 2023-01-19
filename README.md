@@ -1,6 +1,5 @@
 # toki_pona
-toki_pona is a simple parser for the parsing strings of Toki Pona, the world's
-smallest language.
+toki_pona is a simple parser for parsing strings of Toki Pona, the world's smallest language.
 
 
 ## Changelog:
